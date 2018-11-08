@@ -1,9 +1,8 @@
-## Hello
+## Miguel Llorente González
 
-YO, my name is mike ujhedvwvefñiu gt ì23ug5g
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi nombre es Miguel Llorente González
 
-### Markdown
+### Estudios
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
