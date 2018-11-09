@@ -1,11 +1,10 @@
-## Miguel Llorente González
-
-Mi nombre es Miguel Llorente González, nací el 24 de julio del 2000 en Sevilla.
-
-### Estudios
-
+## Sevillano
+Mi nombre es Miguel Llorente González, estudiante de administracion de sistemas informáticos en red en Triana. Nací el 24 de julio del 2000 en Sevilla.
+My nam e is Miguel Llorente González,a Network administration in informatic systems. I was born on july the 24th 2000 in Seville.
+ 
+### What I can do and why
 ```markdown
-Syntax highlighted code block
+I'm able to speak Spanish (since it's my mother toungue), English up to a C1 level (title I was granted by Cambridge last June),
 
 # Header 1
 ## Header 2
@@ -20,7 +19,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
