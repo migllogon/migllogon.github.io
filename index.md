@@ -1,10 +1,8 @@
 ## Miguel Llorente González
 
-Mi nombre es Miguel Llorente González
+Mi nombre es Miguel Llorente González, nací el 24 de julio del 2000 en Sevilla.
 
 ### Estudios
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
